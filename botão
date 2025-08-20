@@ -1,29 +1,30 @@
-<html> 
+<ttml> 
+
+
 <body>
 
-<h1>  Exemplo de Botão </h1>
-<a href= "https://pt.wikipedia.org/wiki/Crep%C3%BAsculo_(filme)" a>
-    <button> Clique Aqui </button>
-<a> 
 
+<h1>  Exemplo de Botão </h1>
+<a 
+href= "https://pt.wikipedia.org/wiki/Crep%C3%BAsculo_(filme)" a>
+<button class = "botao"> Clique Aqui </button>
+<a> 
 
 </body>
 
-
 <style>
+.botao {
 
+background-color: rgb(196, 97, 112);
+color:rgb(140, 145, 216);
+border-color:rgb(123, 162, 235);
+cursor:pointer;
+font-size:medium;
+transition:0,5s;
 
-
-
-
+}
 
 </style>
-
-
-
-
-
-
 
 
 </html>
